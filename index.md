@@ -1,4 +1,4 @@
-## به صفحه یادداشت های من خوش آمدید
+<h1 dir='rtl'>به صفحه یادداشت های من خوش آمدید </h1>
 
 You can use the [editor on GitHub](https://github.com/MahdiEsrafili/MahdiEsrafili.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
