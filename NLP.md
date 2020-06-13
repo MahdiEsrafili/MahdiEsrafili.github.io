@@ -33,7 +33,7 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  </p>
 
 <h2 dir = 'rtl'> 
- CountVectorize
+ 3.CountVectorize
  </h2>
  <p dir = 'rtl'>
  هدف اینه که تعداد تکرار کلمات و در بیاره و به یه ماتریس اغلب تنک sparse تبدیل کنه. مثلا:
