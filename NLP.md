@@ -11,6 +11,6 @@
 "ali is a good boy" <br>
 N=1 => ['ali', 'is', 'a', 'good','boy'] <br>
 N=2 => ['ali is', 'is a', 'a good', 'good boy']
-    </code></pre><br><dir='rtl'>
+    </code></pre><br><a dir='rtl'>
  از این برای استخراج ویژگی، اصلاح خطای املایی استفاده میشه
-</p>
+</a></p>
