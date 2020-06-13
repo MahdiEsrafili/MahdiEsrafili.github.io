@@ -43,3 +43,16 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  'ali' 'is' 'a' 'good' 'boy' 'student'
  2       2   2    2      1      1
 </code> </pre>
+<h2 dir = 'rtl'>
+ word tokenize
+</h2>
+<p dir = 'rtl'>
+ این عمل برای تبدیل متن به لیستی از کلمات است. مثلا:
+ </p>
+ <pre><code>
+ 'ali is a good boy and good student'
+ ['ali','is','a','good','boy','and','good','student']
+ </code></pre>
+ <p dir ='rtl'>
+ البته نوع sentence tokenizer هم هست که میاد متن رو به جملات میشکنه
+ </p>
