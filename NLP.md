@@ -56,7 +56,7 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  <p dir ='rtl'>
  البته نوع sentence tokenizer هم هست که میاد متن رو به جملات میشکنه
  </p>
-<h2 dir = 'rtl>
+<h2>
  5.POS tagging 
  </h2>
  <p dir = 'rtl'> 
