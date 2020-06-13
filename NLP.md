@@ -27,7 +27,19 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  running => run
  apples => apple
  better => good
- </pre></code>
+ </code></pre>
  <p dir = 'rtl'>
  این عمل رو برای اسم ها، فعل ها و صفت ها انجام میده و در توابعی که میخوایم این رو صدا بزنیم، مشخص میکنیم کدوم نوع منظورمونه
  </p>
+
+<h2 dir = 'rtl'> 
+ CountVectorize
+ </h2>
+ <p dir = 'rtl'>
+ هدف اینه که تعداد تکرار کلمات و در بیاره و به یه ماتریس اغلب تنک sparse تبدیل کنه. مثلا:
+ </p>
+ <pre><code>
+ 'ali is a good boy a good student is ali'
+ 'ali' 'is' 'a' 'good' 'boy' 'student'
+ 2       2   2    2      1      1
+</code> </pre>
