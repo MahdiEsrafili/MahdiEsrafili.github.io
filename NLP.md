@@ -56,7 +56,9 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  <p dir ='rtl'>
  البته نوع sentence tokenizer هم هست که میاد متن رو به جملات میشکنه
  </p>
-<h2 dir = 'rtl> 5.POS tagging </h2>
+<h2 dir = 'rtl>
+ 5.POS tagging 
+ </h2>
  <p dir = 'rtl'> 
     pos یا Part of Speech tagging برای این استفاده می شود که نوع کلمات رو مشخص کند. در واقع میاد برای لیستی از کلمات توکنایز شده، مشخص میکنه نوع کلمه چیه.مثلا:           
  </p>
