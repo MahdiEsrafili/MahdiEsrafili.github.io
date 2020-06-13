@@ -44,7 +44,7 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  2       2   2    2      1      1
 </code> </pre>
 <h2 dir = 'rtl'>
- word tokenize
+ 4.word tokenize
 </h2>
 <p dir = 'rtl'>
  این عمل برای تبدیل متن به لیستی از کلمات است. مثلا:
@@ -56,3 +56,12 @@ N=2 => ['ali is', 'is a', 'a good', 'good boy']
  <p dir ='rtl'>
  البته نوع sentence tokenizer هم هست که میاد متن رو به جملات میشکنه
  </p>
+<h2 dir = 'rtl> 5.POS tagging </h2>
+ <p dir = 'rtl'> 
+    pos یا Part of Speech tagging برای این استفاده می شود که نوع کلمات رو مشخص کند. در واقع میاد برای لیستی از کلمات توکنایز شده، مشخص میکنه نوع کلمه چیه.مثلا:           
+ </p>
+ <pre><code>
+a= ['ali', 'go', 'best']
+pos_tag(a)       
+[('ali', 'RB'), ('go', 'VB'), ('best', 'JJS')]                     
+ </code></pre>
