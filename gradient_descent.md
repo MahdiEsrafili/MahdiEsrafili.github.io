@@ -14,3 +14,11 @@ error(MSE) : e = (y-y^)^2
 de/dm = (de/dy^)*(dy^/dm) = -2(y-y^) * (x) = 2x*(y^-y)
 de/db = (de/dy^)*(dy^/db) = -2(y-y^) * 1 = 2(y^ - y)
 </code></pre>
+<p dir = 'rtl'>
+  پس ما نرخ رشد خطا نسبت به پارامترهای یادگیری رو پیدا کردیم. پس الان با بروزرسانی اینها در جهت عکس رشد خطا، میتونیم باعث یادگیری مدل بشیم.پس داریم:
+ </p>
+ <pre><code>
+ a = learning rate
+ m =m- a*de/dm = m - 2x(y^-y) = m + 2x(y-y^)
+ b =b- a*de/db = b - 2(y^-y) = b + 2(y-y^)
+ </code></pre>
