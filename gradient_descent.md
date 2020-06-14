@@ -22,3 +22,10 @@ de/db = (de/dy^)*(dy^/db) = -2(y-y^) * 1 = 2(y^ - y)
  m =m- a*de/dm = m - 2x(y^-y) = m + 2x(y-y^)
  b =b- a*de/db = b - 2(y^-y) = b + 2(y-y^)
  </code></pre>
+ <p dir= 'rtl'>
+  البته دقت کنید که اگه فرمول محاسبه خطا عوض بشه، اون فرمول بروزرسانی پارامترها هم یه تغییری میکنه. مثلا اگه تبدیل بشه به categorical cross entropy ، دیگه باید مشتق ها رو از نو محاسبه کرد.
+  </p>
+<pre><code>
+categorical cross entropy loss:
+e = -sigma(y*y^)
+</code></pre>
