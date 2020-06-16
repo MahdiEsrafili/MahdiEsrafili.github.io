@@ -7,4 +7,5 @@
 [یادداشت های کتاب داستان پردازی با داده ها](story_telling.md)<br>
 [مفاهیم در پردازش زبان طبیعی](NLP.md)<br>
 [گرادیان کاهشی](gradient_descent.md)<br>
+[توابع کاربردی پانداس](pandas_functions.md)<br>
  
