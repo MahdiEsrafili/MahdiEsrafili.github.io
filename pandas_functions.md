@@ -1,4 +1,5 @@
 <h1 dir= 'rtl'> برخی توابع مهم در پانداس </h1>
+[notebook link](pandas_functions_notebook/pandas_functions.ipynb)
 <h2 dir = 'rtl'>
 تعریف دیتافریم
 </h2>
