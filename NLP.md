@@ -67,3 +67,4 @@ a= ['ali', 'go', 'best']
 pos_tag(a)       
 [('ali', 'RB'), ('go', 'VB'), ('best', 'JJS')]                     
  </code></pre>
+ 
