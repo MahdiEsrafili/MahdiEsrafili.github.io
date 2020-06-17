@@ -8,4 +8,5 @@
 [مفاهیم در پردازش زبان طبیعی](NLP.md)<br>
 [گرادیان کاهشی](gradient_descent.md)<br>
 [توابع کاربردی پانداس](pandas_functions.md)<br>
+[مباحث احتمالاتی](statistics.md)
  
