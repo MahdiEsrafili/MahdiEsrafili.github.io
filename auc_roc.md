@@ -26,3 +26,6 @@ Precision: یعنی از کل مثبت هایی که تشخیص داده، چق�
 Recall: یعنی مدل چقدر تونسته مثبت ها رو شناسایی کنه
 </p>
 
+[notebook](https://github.com/MahdiEsrafili/MahdiEsrafili.github.io/blob/master/ROC_AUC/ROC_AUC.ipynb)
+
+
