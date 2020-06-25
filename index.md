@@ -11,5 +11,6 @@
 [مباحث احتمالاتی](statistics.md)<br>
 [نمودار ROC](auc_roc.md)<br>
 [random forest](random_forest.md)<br>
+[انسمبل](ensemble.md)<br>
 
  
