@@ -13,5 +13,4 @@
 [random forest](random_forest.md)<br>
 [انسمبل](ensemble.md)<br>
 [دسته بندی بیزین چگونه کار میکنه؟](bayesian.md)<br>
-
- 
+[انسمبل](ensemble.md)<br>
