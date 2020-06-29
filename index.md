@@ -12,5 +12,6 @@
 [نمودار ROC](auc_roc.md)<br>
 [random forest](random_forest.md)<br>
 [انسمبل](ensemble.md)<br>
+[دسته بندی بیزین چگونه کار میکنه؟](bayesian.md)<br>
 
  
