@@ -14,4 +14,5 @@
 [انسمبل](ensemble.md)<br>
 [دسته بندی بیزین چگونه کار میکنه؟](bayesian.md)<br>
 [Rule-Based Classification](rule_based_classification.md)<br>
-[روش های انتخاب ویژگی](feature_selection.md)
+[روش های انتخاب ویژگی](feature_selection.md)<br>
+[روش های مختلف مقیاس دهی](scaling.md)<br>
