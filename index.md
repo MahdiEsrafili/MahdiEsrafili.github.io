@@ -16,3 +16,4 @@
 [Rule-Based Classification](rule_based_classification.md)<br>
 [روش های انتخاب ویژگی](feature_selection.md)<br>
 [روش های مختلف مقیاس دهی](scaling.md)<br>
+[بردن مدل یادگیری ماشین به پروداکشن](ML_production.md)
