@@ -17,4 +17,4 @@
 >## [روش های انتخاب ویژگی](feature_selection.md)<br>
 >## [روش های مختلف مقیاس دهی](scaling.md)<br>
 >## [بردن مدل یادگیری ماشین به پروداکشن](ML_production.md)<br>
->## [Spark Consepts](Spark_concepts.md)
+>## [Spark Consepts](spark_concepts.md)
