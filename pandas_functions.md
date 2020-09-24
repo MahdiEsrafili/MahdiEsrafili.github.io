@@ -34,7 +34,9 @@ merge
 <pre><code>
 res = pd.merge(left,right,on='customerID')
 </code></pre>
-
+<p dir = 'rtl'>
+اگه میخوایم دو تا دیتافریم رو بر اساس ایندکس هاشون اتصال بدیم، پارامترهای right_index, left_index رو برابر True قرار میدیم.
+</p>
 <h2 dir ='rtl'> join</h2>
 <p dir='rtl'>  
 این هم مانند merge دو دیتافریم را به همدیگه ارتباط میده. با توجه به how اون سطرهایی که در دو دیتافریم مشترک نیستن، NaN می شوند.
