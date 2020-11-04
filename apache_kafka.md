@@ -48,6 +48,6 @@ curl http://localhost:8083/connectors/first-connector | python -m json.tool
 -------
 Useful links:
 
-https://shravan-kuchkula.github.io/kafka-connect-stream-data-into-kafka/#list-existing-connectors
+[learn basics of Kafka Connect](https://shravan-kuchkula.github.io/kafka-connect-stream-data-into-kafka/#list-existing-connectors)
 
-https://supergloo.com/kafka-connect/
+[learn how to start kafka connect via command line](https://supergloo.com/kafka-connect/)
