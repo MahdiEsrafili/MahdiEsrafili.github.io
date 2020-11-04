@@ -19,3 +19,4 @@
 >## [بردن مدل یادگیری ماشین به پروداکشن](ML_production.md)<br>
 >## [Spark Consepts](spark_concepts.md)
 >## [What To Do In EDA Phase](eda_phase.md)
+>## [Apache Kafka](apache_kafka.md)
