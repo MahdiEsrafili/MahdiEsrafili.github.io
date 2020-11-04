@@ -17,7 +17,7 @@ in `connect-file-source.properties`, `topic` and the source `file` name is speci
 To check the payloads streamed via Connect, you can run this command:
 
 ```
-bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic connect-test
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic connect-test
 ```
 Also Kafka Connect has a rest api service that we can check/update/create/delete/pause the connectors. 
 
